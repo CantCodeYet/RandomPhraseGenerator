@@ -1,6 +1,6 @@
 # RandomPhraseGenerator
 
-This is jus a little script that I wrote that generates random english phrases. I stole most of the code, like a real programmer.
+This is just a little script that I wrote that generates random English phrases. I stole most of the code, like a real programmer.
 
 Sources:
 
