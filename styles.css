@@ -1,0 +1,27 @@
+
+body {
+  font-size: 40px;
+  font-family: Arial;
+  color: #000000;
+  background-color: #6d98ba;
+}
+
+#phrases {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#phrases button {
+  margin-top: 20px;
+  background-color: #C17767;
+  border-radius: 20px;
+  cursor: pointer;
+  border: 2px solid;
+}
+
+#phrases button:hover {
+  background: #ffffff;
+}
